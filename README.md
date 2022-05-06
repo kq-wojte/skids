@@ -1,2 +1,2 @@
-# skids
-Skid list. 
+# Skid list. 
+# Me - Skidding minecraft clients.
